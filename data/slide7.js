@@ -1,0 +1,3 @@
+(function(){var loadHandler=window['sl_{FC68CF71-4AAD-4553-B95A-32385584852E}'];loadHandler&&loadHandler(6, '<div id="spr0_35cf41"><div id="spr1_35cf41" class="kern slide"><img id="img2_35cf41" src="data/img3.png" width="720px" height="540px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_35cf41" class="kern slide"><div id="spr3_35cf41"><img id="img0_35cf41" src="data/img27.jpg" width="720" height="540" alt=""/></div><div id="spr4_35cf41" style="left:-24px;top:95px;"><img id="img1_35cf41" src="data/img28.png" width="308" height="106" alt="Có một quả Thị áo \
+xanh đang ngủ im\
+lìm trên cành cây Thị."/></div></div></div>', '{"s":[]}');})();

@@ -1,0 +1,7 @@
+(function(){var loadHandler=window['sl_{FC68CF71-4AAD-4553-B95A-32385584852E}'];loadHandler&&loadHandler(8, '<div id="spr0_35df86"><div id="spr1_35df86" class="kern slide"><img id="img5_35df86" src="data/img3.png" width="720px" height="540px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_35df86" class="kern slide"><div id="spr3_35df86"><img id="img0_35df86" src="data/img34.jpg" width="720" height="540" alt=""/></div><div id="spr4_35df86" style="top:336px;"><img id="img1_35df86" src="data/img35.png" width="98" height="191" alt="" style="left:5px;top:1px;"/></div><div id="spr5_35df86" style="left:55px;top:143px;"><img id="img2_35df86" src="data/img36.png" width="259" height="170" alt="Bạn Mèo đến cào cào vào\
+ cây Thị và gọi:\
+-Quả Thị áo xanh ,quả Thị \
+áo xanh,Thị ơi dậy nhanh,\
+đi chơi Thị nhé.!\
+-Nhưng quả Thị áo xanh vẫn\
+ ngủ im lìm trên cành cây Thị."/></div><div id="spr6_35df86" style="left:660px;top:474px;"><a id="hl0_35df86" href="#"><img id="img3_35df86" src="data/img37.png" width="34" height="34" alt="" style="left:1px;"/></a></div><div id="spr7_35df86" style="left:684px;top:438px;"><a id="hl1_35df86" href="#"><img id="img4_35df86" src="data/img37.png" width="34" height="34" alt="" style="left:1px;"/></a></div></div></div>', '{"s":[]}');})();
